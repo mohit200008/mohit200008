@@ -10,7 +10,7 @@ Hi, my name is Mohit Lamba. I am a SOPHOMORE at JIIT-NOIDA pursuing my Bachelor'
 
 <p align="center">
   <a>
-   <img height="180" width="160" src="https://octodex.github.com/images/Fintechtocat.png">
+   <img height="200" width="200" src="https://octodex.github.com/images/Fintechtocat.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohit200008&theme=highcontrast"/>
    <img height="180" width="160" src="https://octodex.github.com/images/inspectocat.jpg">
 </p>
